@@ -2,43 +2,51 @@
 
 Thank you for your interest in contributing! This list aims to be a high-quality, curated collection of AI tools and resources for economists, social scientists, and policy analysts.
 
-## How to Contribute
+## Quick Start
 
-1. **Fork** this repository
-2. **Add your resource** to the appropriate section in `README.md`
-3. **Submit a Pull Request** with a clear description of what you are adding and why
+1. **Fork** this repository.
+2. **Add your resource** to the appropriate section in `README.md`.
+3. **Submit a Pull Request** with a clear description of what you are adding and why.
 
-## Guidelines
+## Entry Format
 
-### Quality Standards
+Follow this exact format for each entry:
 
-- The resource must be directly relevant to AI and economics/economic analysis
-- Prefer resources that are actively maintained (updated within the last 12 months)
-- The resource should be freely accessible or have a meaningful free tier
-- Academic papers should be published in reputable venues or available as working papers from recognized institutions (NBER, CEPR, etc.)
+```markdown
+- [Tool Name](https://url.com) - Brief description ending with period. ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square)
+```
 
-### Formatting
+- Start descriptions with an uppercase letter and end with a period.
+- Keep descriptions concise — one sentence, ideally under 20 words.
+- Add the GitHub stars badge for any tool hosted on GitHub.
+- Place your addition in alphabetical order within its section.
 
-- Follow the existing format: `[Name](URL) - Brief description.`
-- Keep descriptions concise (one sentence, no more than 15 words)
-- Place your addition in alphabetical order within its section
-- Check for duplicates before submitting
-- One resource per pull request is preferred for easier review
+## Quality Standards
 
-### What We Are Looking For
+- The resource must be **directly relevant** to AI and economics or economic analysis.
+- Prefer resources that are **actively maintained** (updated within the last 12 months).
+- The resource should be freely accessible or have a meaningful free tier.
+- Academic papers should be published in reputable venues or available as working papers from recognized institutions (NBER, CEPR, etc.).
 
-- AI tools useful for economic research, teaching, or policy analysis
-- Libraries and frameworks for econometrics, causal inference, or economic modeling
-- Papers and courses at the intersection of AI and economics
-- Data platforms with AI-powered analysis capabilities
+## What We Are Looking For
 
-### What We Are NOT Looking For
+- AI tools useful for economic research, teaching, or policy analysis.
+- Libraries and frameworks for econometrics, causal inference, or economic modeling.
+- Papers and courses at the intersection of AI and economics.
+- Data platforms with AI-powered analysis capabilities.
+- MCP servers for accessing economic data.
 
-- General-purpose AI tools with no specific relevance to economics
-- Paid tools without a free tier or academic access
-- Abandoned projects with no updates for 2+ years
-- Self-promotional content without clear value to the community
+## What We Are NOT Looking For
+
+- General-purpose AI tools with no specific relevance to economics.
+- Paid tools without a free tier or academic access.
+- Abandoned projects with no updates for 2+ years.
+- Duplicate entries of tools already listed.
+
+## Suggesting a New Section
+
+If a resource does not fit any existing section, open an issue first to discuss whether a new section is warranted.
 
 ## Questions?
 
-Open an issue if you are unsure whether a resource fits or where it should go.
+Open an [issue](https://github.com/hanlulong/awesome-ai-for-economists/issues) if you are unsure whether a resource fits or where it should go.
